@@ -1,0 +1,13 @@
+.graytext {
+  color: #808080;
+}
+#dicePhoto {
+  margin: 20px;
+}
+#greenButton {
+  background-color: lightgreen;
+}
+
+button {
+  cursor: pointer;
+}
